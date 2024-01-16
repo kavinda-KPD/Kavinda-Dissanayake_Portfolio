@@ -23,7 +23,7 @@ const Education = () => {
             des="I earned my Bachelor's in Computer Science from the University of Ruhuna, specializing in the Faculty of Science, Department of Computer Science. The program provided a comprehensive education, covering fundamental topics such as algorithms, data structures, and software development. Throughout my studies, I engaged in hands-on projects and practical applications, gaining valuable insights into various specialized areas within computer science. The faculty's guidance and mentorship, coupled with extracurricular activities, enhanced my critical thinking and problem-solving skills. Overall, my education at the University of Ruhuna has equipped me with a strong foundation, preparing me for a successful career in the ever-evolving field of technology."
           />
           <ResumeCard
-            title="(9A's in OL English Medium"
+            title="9A's in OL English Medium"
             subTitle="R/Sivali Central College (2015)"
             result="9 A's"
             des="I attended R/Sivali Central College for my school education. In the Ordinary Level (OL) examinations in the English medium, I achieved outstanding results with 9As. My time at R/Sivali Central College not only provided a solid academic foundation but also instilled in me a strong work ethic and a passion for continuous learning. These achievements reflect my commitment to academic excellence during my school years."
